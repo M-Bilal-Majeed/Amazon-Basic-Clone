@@ -1,4 +1,5 @@
 # Amazon-Basic-Clone
-M.Bilal
+M.Bilal- Beginner Dev
+<br>
 This is my first git repository.
 Created for my first forntend project by using just html and css.
